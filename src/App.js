@@ -4,6 +4,7 @@ import Menubar from './component/navbar/Menubar';
 
 
 function App() {
+  console.log("welcome deep")
   return (
     <div className="App">
       <Menubar />
